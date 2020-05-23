@@ -30,6 +30,7 @@ Se você tem interesse em propor uma talk, basta abrir um Pull Request no seguin
 Data  | Local
 ------| :-----
 04/02 | ThoughtWorks
+12/05 | Online
 
 
 ## 2019
