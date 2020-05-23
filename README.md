@@ -17,8 +17,8 @@ Time  | Agenda
 Se você tem interesse em propor uma talk, basta abrir um Pull Request no seguinte formato:
 * Título do PR: **[Talk] O título da sua talk**
 * Na descrição do PR: breve descrição sobre você (onde trabalha, o que tem interesse, etc.) e a talk (sobre o que sua talk vai abordar).
-* O arquivo de sua apresentação deve ser em PDF e o título no seguinte formato: **titulo-da-sua-talk.pdf**
-* O arquivo deve ser colocado na pasta correspondente ao mês que sua talk será realizada, por exemplo: **talks/2019/jan/titulo-da-sua-talk.pdf**
+* O arquivo de sua apresentação deve ser em PDF e o título no seguinte formato: **nome-sobrenome-titulo-da-sua-talk.pdf**
+* O arquivo deve ser colocado na pasta correspondente ao mês que sua talk será realizada, por exemplo: **talks/2019/jan/nome-sobrenome-titulo-da-sua-talk.pdf**
 
 ## Notas para os palestrantes
 * Seja pontual no dia do evento: Também vale para os horários de início e fim da sua talk.
