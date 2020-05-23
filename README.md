@@ -23,7 +23,7 @@ Se você tem interesse em propor uma talk, basta abrir um Pull Request no seguin
 ## Notas para os palestrantes
 * Seja pontual no dia do evento: Também vale para os horários de início e fim da sua talk.
 * Traga seu próprio equipamento: laptops, adaptadores, passadores de apresentação, etc.
-* Confirme presença no meetup.com: Isso é para garantir que o nome de todos vai ser passado para a segurança do prédio.
+* Confirme presença no meetup.com: Isso é para garantir que o nome de todos serão passados para a segurança do prédio.
 
 # Eventos Anteriores
 ## 2020
