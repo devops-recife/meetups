@@ -42,3 +42,4 @@ Data  | Local
 
 # Fale com a Nossa Comunidade!
 * [Telegram](https://t.me/devopsrecife)
+* [Youtube Channel](https://www.youtube.com/channel/UCLm2BHQvMpyoh9GP8mSd76g)
